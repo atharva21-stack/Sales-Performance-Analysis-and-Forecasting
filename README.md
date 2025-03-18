@@ -1,6 +1,5 @@
 # Sales Performance Analysis and Forecasting
 
-![head image](https://github.com/snyamson/LP3-Super-Store-Time-Series-Forecasting/assets/58486437/82c9c1c7-4628-4a40-a688-d05db4824c88)
 
 
 In this machine learning regression project, the goal is to develop a model that can accurately predict the value of the dependent variable based on the values of the independent variables. The model is developed by training the algorithm on a dataset of historical data. The algorithm learns from the data and identifies patterns that can be used to predict the value of the dependent variable.
@@ -132,12 +131,6 @@ Therefore, for this specific forecasting task, we are adopting the XGBoost model
 ## License📜
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Author✍️
-
-Solomon Nyamson
-
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/solomon-nyamson/)
 
 ---
 
