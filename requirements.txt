@@ -104,7 +104,7 @@ parso==0.8.3
 patsy==0.5.3
 phik==0.12.3
 pickleshare==0.7.5
-Pillow==9.5.0
+Pillow==10.3.0
 platformdirs==3.5.1
 plotly==5.15.0
 pmdarima==2.0.3
