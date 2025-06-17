@@ -111,7 +111,7 @@ pmdarima==2.0.3
 powerbiclient==3.1.0
 prometheus-client==0.17.1
 prompt-toolkit==3.0.38
-protobuf==4.24.3
+protobuf==4.25.8
 psutil==5.9.5
 pure-eval==0.2.2
 py4j==0.10.9.7
